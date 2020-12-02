@@ -1,0 +1,6 @@
+Python Interpreter ver. 3.8
+
+Prerequisites Library:
+1.	pip install PyPDF2 -------- PDF File reader library
+2.	pip install pyttsx3 -------- Text-to-Speech library
+3.	pip install PySimpleGUI --- This library makes GUI development far simpler than tkinter.
